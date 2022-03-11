@@ -100,15 +100,12 @@ h3 {
     font-size: 1.25rem;
 }
 
-.main-section {
-    float: left;
-}
+
 
 .subsection figure{
     display: grid;
     grid-gap: 0.5%;
-    width: 5%;
-    height:auto;
+
 }
 
 aside {
