@@ -100,3 +100,9 @@ h3 {
     font-size: 1.25rem;
 }
 
+.subsection {
+    display: grid;
+    grid-gap: 0.5%;
+    
+}
+
