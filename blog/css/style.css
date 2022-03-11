@@ -78,7 +78,9 @@ html{
 }
 
 .article-image {
-    width: 25%;
+    max-width: 100%;
+    height:auto;
+    
     float: left;
 }
 
@@ -100,9 +102,9 @@ h3 {
     font-size: 1.25rem;
 }
 
-.subsection {
+.subsection figure{
     display: grid;
     grid-gap: 0.5%;
-    
+    width: 66%;
 }
 
