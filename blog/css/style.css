@@ -78,9 +78,7 @@ html{
 }
 
 .article-image {
-    max-width: 100%;
-    height:auto;
-    
+
     float: left;
 }
 
@@ -108,3 +106,9 @@ h3 {
     width: 66%;
 }
 
+aside {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+}
