@@ -78,7 +78,7 @@ html{
 }
 
 .article-image {
-    size: 25%;
+    width: 25%;
     float: left;
 }
 
@@ -99,3 +99,4 @@ h2 {
 h3 {
     font-size: 1.25rem;
 }
+
