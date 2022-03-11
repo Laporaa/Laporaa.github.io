@@ -107,7 +107,8 @@ h3 {
 .subsection figure{
     display: grid;
     grid-gap: 0.5%;
-    width: 66%;
+    width: 5%;
+    height:auto;
 }
 
 aside {
