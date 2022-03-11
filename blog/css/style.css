@@ -77,6 +77,10 @@ html{
     border-radius: 5px;
 }
 
+.article-image {
+    float: left;
+}
+
 nav ol {
 
     list-style-type: none;
